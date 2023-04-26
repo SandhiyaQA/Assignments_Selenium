@@ -1,0 +1,9 @@
+<suite name="faceBookLogin">
+    <test name="faceBookLogin">
+        <classes>
+            <parameter name="username" value="sandhiya"></parameter>
+            <parameter name="password" value="depeshwaran"></parameter>
+            <class name="testNgDependendant.Dependency"> </class>
+        </classes>
+    </test>
+</suite>

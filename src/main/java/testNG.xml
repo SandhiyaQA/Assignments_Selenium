@@ -1,0 +1,9 @@
+<suite name="facebook">
+    <test name="login">
+<classes>
+        <parameter name="username"  value="sandhiyarai01@gmail.com"> </parameter>
+        <parameter name="password" value="depeshwaran"></parameter>
+    <class name="facebooklogin"/>
+</classes>
+    </test>
+</suite>

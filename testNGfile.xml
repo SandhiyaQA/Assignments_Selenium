@@ -1,0 +1,8 @@
+<suite name="VerifyTitle">
+    <test name="verifyLogin" thread-count="5">
+        <classes>
+            <class name="Relevel_Sandhiya.HomeLoan"></class>
+
+        </classes>
+    </test>
+</suite>

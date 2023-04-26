@@ -1,0 +1,14 @@
+<suite name="grouptest">
+    <test  name="group">
+        <groups name ="grouping">
+            <run>
+            <include name="Google"></include>
+            <exclude name="Facebook"></exclude>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="datadrivenOnline.TestngGroup"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,7 @@
+<suite name="Paralleltest">
+    <test  name="parallel" parallel="method">
+        <classes>
+            <class name="datadrivenOnline.Assign5_Relevel"></class>
+        </classes>
+    </test>
+</suite>

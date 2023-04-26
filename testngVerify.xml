@@ -1,0 +1,8 @@
+<suite name="VerifyTitle">
+    <test name="verifyLogin" thread-count="5">
+        <classes>
+            <class name="testngVerify.TestNGVerification"></class>
+            <class name="testngVerify.TestNGverifyBase"></class>
+        </classes>
+    </test>
+</suite>

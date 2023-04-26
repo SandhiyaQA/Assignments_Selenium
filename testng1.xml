@@ -1,0 +1,7 @@
+<suite name="d">
+    <test  name="h">
+        <classes>
+            <class name="datadrivenOnline.login"></class>
+        </classes>
+    </test>
+</suite>

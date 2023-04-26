@@ -1,0 +1,7 @@
+<suite name="retry">
+    <test  name="retry">
+        <classes>
+            <class name="retryAnalyserClass"/>
+        </classes>
+    </test>
+</suite>
